@@ -1,0 +1,16 @@
+
+body{
+    background-image: linear-gradient(to right, red, yellow);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+h1, .container{
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+}
+
+
